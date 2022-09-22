@@ -1,11 +1,12 @@
 from curses import meta
 import pandas as pd
 from twilio.rest import Client
+import os
 
 # Your Account SID from twilio.com/console
-account_sid = "AC2f5b8dbd335d05a1ce74fd89200184e4"
+account_sid = os.environ['TWILIO_ACCOUNT_SID']
 # Your Auth Token from twilio.com/console
-auth_token  = "741968cb1d8d4b8ba7e86be34d0caf8c"
+auth_token  = os.environ['TWILIO_AUTH_TOKEN']
 client = Client(account_sid, auth_token)
 
 # Abrir os 6 arquivos em Excel
