@@ -48,5 +48,5 @@ execute o comando Run Pyton File no menu de navegação.
 
 # Reconhecimento
 
-Projeto originalmente criado por Lira da Hashtag: https://www.youtube.com/c/HashtagProgramação
-Alterado e implantado por Carlos Augusto : https://www.linkedin.com/in/carlos-augusto-lopes-de-oliveira-2602458b/
+<p>Projeto originalmente criado por Lira da Hashtag: https://www.youtube.com/c/HashtagProgramação </p>
+<p>Alterado e implantado por Carlos Augusto : https://www.linkedin.com/in/carlos-augusto-lopes-de-oliveira-2602458b/ </p>
